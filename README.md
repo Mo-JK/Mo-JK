@@ -23,4 +23,4 @@ I like finding weaknesses before attackers do, from cloud misconfigurations to v
 **Practice:** TryHackMe · PortSwigger Web Security Academy · OverTheWire · DVWA
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/mohamed-jadkarim-83054b2ba) · mjadkari@gmu.edu
+[LinkedIn](https://www.linkedin.com/in/mohamed-jadkarim) · mjadkari@gmu.edu
